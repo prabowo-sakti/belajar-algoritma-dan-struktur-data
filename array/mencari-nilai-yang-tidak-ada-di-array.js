@@ -1,6 +1,6 @@
 const array = Array.from({ length: 100 }, (_, i) => i + 1);
 
-const target = 100;
+const target = 101;
 
 let found = false;
 for (let i = 0; i < array.length; i++) {
